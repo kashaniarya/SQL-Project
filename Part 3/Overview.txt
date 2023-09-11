@@ -1,0 +1,20 @@
+The main tasks involve loading data from a Movie Rating dataset, 
+creating relational tables, implementing range and round-robin partitioning methods, 
+and inserting new data into the appropriate partitions.
+
+Key Objectives:
+
+Link a database in a Python file and write queries within Python.
+Implement Python functions to observe how round-robin and range partitions function.
+Reproduce the use of virtual machine software.
+
+Technology Requirements:
+
+Python
+PostgreSQL
+
+Assignment Description:
+
+Input data is a Movie Rating dataset with 10 million ratings, 100,000 tag applications, 10,000 movies, and 72,000 users.
+Python functions should be implemented to load this data into a PostgreSQL table, 
+perform range and round-robin partitioning, and insert new data into the partitions.
