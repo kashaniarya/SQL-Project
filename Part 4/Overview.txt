@@ -1,0 +1,7 @@
+The main objectives are to link a database in a Python file and write queries within the Python file to perform specific operations.
+
+Key Objectives:
+
+Link a database in a Python file and write queries.
+Observe how round-robin and range partitions function in practice.
+Query the range and round-robin partitions to fetch required rows.
