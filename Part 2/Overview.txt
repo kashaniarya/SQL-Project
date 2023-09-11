@@ -1,0 +1,10 @@
+Objectives include learning to use SELECT, FROM, and WHERE statements, 
+applying the WHERE clause for filtering, 
+using aggregate functions like count, sum, and average, 
+and understanding the GROUP BY statement. 
+
+PostgreSQL is the required technology.
+
+Part 2 builds upon the movie database design from Part 1 and requires correctly created table definitions. 
+Nine SQL queries are implemented, each with specific output requirements such as counting movies by genre, 
+calculating average ratings per genre, and identifying movies with at least 10 ratings.
