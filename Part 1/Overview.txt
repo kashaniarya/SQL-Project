@@ -1,0 +1,2 @@
+Part 1 involves creating seven tables: users, movies, taginfo, genres, ratings, tags, and hasagenre. 
+Each table has specific attributes with defined data types, and some attributes serve as primary or foreign keys. 
